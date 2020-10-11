@@ -1,0 +1,99 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<br />
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <form id="frmEmployee" name="frmEmployee">
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Firt Name</label>
+                    <input type="text" class="form-control" id="txtFirstName" name="firstname">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword1">Last Name</label>
+                    <input type="text" class="form-control" id="txtLastName" name="lastname">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword1">Email</label>
+                    <input type="text" class="form-control" id="txtEmail" name="email">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword1">NIC</label>
+                    <input type="text" class="form-control" id="txtNIC" name="nic">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword1">Department </label>
+                    <select id="ddlDepartment" class="form-control" name="department">
+                        <option value="1"> Select</option>
+                    </select>
+                </div>
+                <div class="form-check">
+                    <input type="checkbox" class="form-check-input" id="chkActive">
+                    <label class="form-check-label" for="exampleCheck1">Check me out</label>
+                </div>
+                <button type="button" class="btn btn-primary" onclick="btnSave_Click()">Save</button>
+                <button type="button" class="btn btn-danger" onclick="btnClear_Click()">Clear</button>
+            </form>
+        </div>
+        <div class="col-md-6">
+            <table class="table table-bordered table-condensed" id="dataTable">
+                <thead>
+                    <tr>
+                        <td>First Name</td>
+                        <td>Last Name</td>
+                        <td>Email</td>
+                        <td>NIC</td>
+                        <td>Active</td>
+                        <td colspan="2">Actions</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Dasun</td>
+                        <td>Dasun</td>
+                        <td>Dasun</td>
+                        <td>Dasun</td>
+                        <td><i class="fas fa-edit"></i></td>
+                        <td><i class="fa fa-trash color"></i></td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+</div>
+<div class="modal" tabindex="-1" role="dialog" id="modelConfirm">
+    <div class="modal-dialog modal-sm" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Delete Confirm Box</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Are you sure want to delete this record.</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" id="btnDelete">Delete</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="overlay" id="divLoder" style="display:none">
+    <div class="overlay__wrapper">
+        <div class="overlay__spinner">
+            <img src="~/Images/loading.gif"  width="42"  />
+        </div>
+    </div>
+</div>
+@section Scripts{
+    <script src="~/Script/Employee.js"></script>
+
+}
+@section Styles{
+    <link href="~/css/Employee.css" rel="stylesheet" />
+}

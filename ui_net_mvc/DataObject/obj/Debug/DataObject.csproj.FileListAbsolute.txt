@@ -1,0 +1,14 @@
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\DataObject\bin\Debug\DataObject.dll.config
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\DataObject\bin\Debug\DataObject.dll
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\DataObject\bin\Debug\DataObject.pdb
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\DataObject\bin\Debug\EntityFramework.dll
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\DataObject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\DataObject\bin\Debug\EntityFramework.xml
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\DataObject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\DataObject\obj\Debug\DataObject.Migrations.init.resources
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\DataObject\obj\Debug\DataObject.csproj.GenerateResource.cache
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\DataObject\obj\Debug\DataObject.csproj.CopyComplete
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\DataObject\obj\Debug\DataObject.dll
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\DataObject\obj\Debug\DataObject.pdb
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\DataObject\obj\Debug\DataObject.csprojAssemblyReference.cache

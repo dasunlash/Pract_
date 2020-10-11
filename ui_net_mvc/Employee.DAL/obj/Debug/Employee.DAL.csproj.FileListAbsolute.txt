@@ -1,0 +1,12 @@
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\Employee.DAL\bin\Debug\Employee.DAL.dll
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\Employee.DAL\bin\Debug\Employee.DAL.pdb
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\Employee.DAL\bin\Debug\DataObject.dll
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\Employee.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\Employee.DAL\bin\Debug\DataObject.pdb
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\Employee.DAL\bin\Debug\DataObject.dll.config
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\Employee.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\Employee.DAL\obj\Debug\Employee.DAL.csprojAssemblyReference.cache
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\Employee.DAL\obj\Debug\Employee.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\Employee.DAL\obj\Debug\Employee.DAL.csproj.CopyComplete
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\Employee.DAL\obj\Debug\Employee.DAL.dll
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\Employee.DAL\obj\Debug\Employee.DAL.pdb

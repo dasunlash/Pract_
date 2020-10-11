@@ -1,0 +1,6 @@
+There are two role
+1.CompanyUser
+2.PublicUser
+
+Note-I didi not applied lazy loading mechanism because of the time.
+ 

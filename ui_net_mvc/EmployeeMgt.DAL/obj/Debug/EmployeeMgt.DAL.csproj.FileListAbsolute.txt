@@ -1,0 +1,15 @@
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\EmployeeMgt.DAL\bin\Debug\EmployeeMgt.DAL.dll.config
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\EmployeeMgt.DAL\bin\Debug\EmployeeMgt.DAL.dll
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\EmployeeMgt.DAL\bin\Debug\EmployeeMgt.DAL.pdb
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\EmployeeMgt.DAL\bin\Debug\DataObject.dll
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\EmployeeMgt.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\EmployeeMgt.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\EmployeeMgt.DAL\bin\Debug\DataObject.pdb
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\EmployeeMgt.DAL\bin\Debug\DataObject.dll.config
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\EmployeeMgt.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\EmployeeMgt.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\EmployeeMgt.DAL\obj\Debug\EmployeeMgt.DAL.csprojAssemblyReference.cache
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\EmployeeMgt.DAL\obj\Debug\EmployeeMgt.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\EmployeeMgt.DAL\obj\Debug\EmployeeMgt.DAL.csproj.CopyComplete
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\EmployeeMgt.DAL\obj\Debug\EmployeeMgt.DAL.dll
+C:\Users\Dasun Lakshan\Desktop\test_practicle\net_mvc\EmployeeMgt.DAL\obj\Debug\EmployeeMgt.DAL.pdb

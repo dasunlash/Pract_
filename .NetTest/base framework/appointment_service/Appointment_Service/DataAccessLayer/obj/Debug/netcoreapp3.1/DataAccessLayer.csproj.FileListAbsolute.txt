@@ -1,0 +1,36 @@
+D:\.NetTest\appointment_service\Appointment_Service\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+D:\.NetTest\appointment_service\Appointment_Service\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\.NetTest\appointment_service\Appointment_Service\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\.NetTest\appointment_service\Appointment_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csprojAssemblyReference.cache
+D:\.NetTest\appointment_service\Appointment_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\.NetTest\appointment_service\Appointment_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+D:\.NetTest\appointment_service\Appointment_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\.NetTest\appointment_service\Appointment_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\.NetTest\appointment_service\Appointment_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\.NetTest\appointment_service\Appointment_Service\DataAccessLayer\bin\Debug\netcoreapp3.1\DataObjects.dll
+D:\.NetTest\appointment_service\Appointment_Service\DataAccessLayer\bin\Debug\netcoreapp3.1\DataObjects.pdb
+D:\.NetTest\appointment_service\Appointment_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CopyComplete
+D:\.NetTest\base framework\appointment_service\Appointment_Service\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+D:\.NetTest\base framework\appointment_service\Appointment_Service\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\.NetTest\base framework\appointment_service\Appointment_Service\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\.NetTest\base framework\appointment_service\Appointment_Service\DataAccessLayer\bin\Debug\netcoreapp3.1\DataObjects.dll
+D:\.NetTest\base framework\appointment_service\Appointment_Service\DataAccessLayer\bin\Debug\netcoreapp3.1\DataObjects.pdb
+D:\.NetTest\base framework\appointment_service\Appointment_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csprojAssemblyReference.cache
+D:\.NetTest\base framework\appointment_service\Appointment_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\.NetTest\base framework\appointment_service\Appointment_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+D:\.NetTest\base framework\appointment_service\Appointment_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\.NetTest\base framework\appointment_service\Appointment_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CopyComplete
+D:\.NetTest\base framework\appointment_service\Appointment_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\.NetTest\base framework\appointment_service\Appointment_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\Dasun Lakshan\Desktop\test_practicle\.NetTest\base framework\appointment_service\Appointment_Service\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+C:\Users\Dasun Lakshan\Desktop\test_practicle\.NetTest\base framework\appointment_service\Appointment_Service\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\Dasun Lakshan\Desktop\test_practicle\.NetTest\base framework\appointment_service\Appointment_Service\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\Dasun Lakshan\Desktop\test_practicle\.NetTest\base framework\appointment_service\Appointment_Service\DataAccessLayer\bin\Debug\netcoreapp3.1\DataObjects.dll
+C:\Users\Dasun Lakshan\Desktop\test_practicle\.NetTest\base framework\appointment_service\Appointment_Service\DataAccessLayer\bin\Debug\netcoreapp3.1\DataObjects.pdb
+C:\Users\Dasun Lakshan\Desktop\test_practicle\.NetTest\base framework\appointment_service\Appointment_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Dasun Lakshan\Desktop\test_practicle\.NetTest\base framework\appointment_service\Appointment_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Dasun Lakshan\Desktop\test_practicle\.NetTest\base framework\appointment_service\Appointment_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Dasun Lakshan\Desktop\test_practicle\.NetTest\base framework\appointment_service\Appointment_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dasun Lakshan\Desktop\test_practicle\.NetTest\base framework\appointment_service\Appointment_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CopyComplete
+C:\Users\Dasun Lakshan\Desktop\test_practicle\.NetTest\base framework\appointment_service\Appointment_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\Dasun Lakshan\Desktop\test_practicle\.NetTest\base framework\appointment_service\Appointment_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
